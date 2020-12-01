@@ -1,0 +1,1 @@
+vamos a probar dos comandos muy peligrosos de git
