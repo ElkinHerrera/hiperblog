@@ -1,0 +1,5 @@
+vamos a probar dos comandos muy peligrosos de git
+
+es rm y reset
+
+prueba rm 2
