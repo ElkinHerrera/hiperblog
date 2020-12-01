@@ -3,3 +3,5 @@ Pablito clavo un clavito en la calva de un calvito
 mañana es lunes ome, esto no puede seguir asi
 
 Se adiciona una nueva linea para temas de commit 
+
+prueba rm
