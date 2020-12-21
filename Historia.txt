@@ -5,3 +5,5 @@ mañana es lunes ome, esto no puede seguir asi
 Se adiciona una nueva linea para temas de commit 
 
 prueba rm
+
+ferney contribuyendo a este proyecto open source
