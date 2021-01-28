@@ -9,6 +9,11 @@ Este proyecto contiene:
 * referencia a imagenes
 * html
 * mucho estres por que se me va la luz
+<<<<<<< HEAD
 
+=======
+* contiene ejemplos para diferentes S.O
+* disponible para todo publico
+>>>>>>> readme-mejorado
 
 :tw-1f31d:
