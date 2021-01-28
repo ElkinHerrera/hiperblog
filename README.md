@@ -9,6 +9,6 @@ Este proyecto contiene:
 * referencia a imagenes
 * html
 * mucho estres por que se me va la luz
-
+* contiene ejemplos para diferentes S.O
 
 :tw-1f31d:
