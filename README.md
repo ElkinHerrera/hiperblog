@@ -8,6 +8,7 @@ Este proyecto contiene:
 * scripts javascript
 * referencia a imagenes
 * html
+* mucho estres por que se me va la luz
 
 
 :tw-1f31d:
