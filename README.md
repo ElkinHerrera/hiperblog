@@ -10,5 +10,6 @@ Este proyecto contiene:
 * html
 * mucho estres por que se me va la luz
 * contiene ejemplos para diferentes S.O
+* disponible para todo publico
 
 :tw-1f31d:
